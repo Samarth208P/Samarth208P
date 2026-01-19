@@ -46,7 +46,7 @@ console.log(dev.hack());
 </td>
 <td width="30%" align="center" style="border: none;">
 
-<img src="https://avatars.githubusercontent.com/u/185214393?v=4" alt="Samarth Patel" width="200" style="border-radius: 50%; border: 3px solid #00FF41;"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding"/>
 
 </td>
 </tr>
@@ -111,10 +111,9 @@ console.log(dev.hack());
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](#)
 
 </div>
+
 <br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
-<br/>
