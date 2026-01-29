@@ -8,11 +8,7 @@
 
 <br/>
 
-<div align="center">
-
-<table style="border: none;">
-<tr style="border: none;">
-<td width="70%" valign="top" style="border: none;">
+<div align="left">
 
 ```javascript
 class Samarth {
@@ -43,14 +39,6 @@ console.log(dev.hack());
 // >> Let's build! 🚀
 ```
 
-</td>
-<td width="30%" align="center" style="border: none;">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -105,13 +93,10 @@ console.log(dev.hack());
 
 ### 🌐 Connect with me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SamPy4X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samarth-208-patel/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SamPy4X)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarth208p@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](#)
-[![LinkedIN]([[https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white
-)
-))](https://www.linkedin.com/in/samarth-208-patel/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-006400?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 </div>
 
 <br/>
