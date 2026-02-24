@@ -8,7 +8,9 @@
 
 <br/>
 
-<div align="left">
+<table border="0">
+  <tr>
+    <td width="60%">
 
 ```javascript
 class Samarth {
@@ -39,6 +41,12 @@ console.log(dev.hack());
 // >> Let's build! 🚀
 ```
 
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpiazJwaXpxZ2pnbHBqZTZqZzJwaXpxZ2pnbHBqZTZqZzJwaXpxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvvnGl2pI/giphy.gif" width="100%" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -96,7 +104,7 @@ console.log(dev.hack());
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samarth-208-patel/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SamPy4X)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarth208p@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-006400?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-006400?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sampatel.vercel.app/)
 </div>
 
 <br/>
