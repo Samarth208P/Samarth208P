@@ -8,9 +8,7 @@
 
 <br/>
 
-<table border="0">
-  <tr>
-    <td width="60%">
+<div align="left">
 
 ```javascript
 class Samarth {
@@ -40,13 +38,6 @@ const dev = new Samarth();
 console.log(dev.hack());
 // >> Let's build! 🚀
 ```
-
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpiazJwaXpxZ2pnbHBqZTZqZzJwaXpxZ2pnbHBqZTZqZzJwaXpxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvvnGl2pI/giphy.gif" width="100%" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
 
 </div>
 
