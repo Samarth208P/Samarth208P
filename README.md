@@ -11,20 +11,11 @@ Role:          Full Stack + Web3 Dev
 IDE:           VS Code
 Shell:         bash
 
-Languages.Code:
-    TypeScript, JavaScript, C++, Python, Solidity, Rust
-
-Languages.Frameworks:
-    React, Next.js, Node.js, TailwindCSS, Three.js
-
-Languages.Backend:
-    PostgreSQL, MongoDB, GraphQL, Express, Docker, Redis
-
-Languages.Web3:
-    Ethereum, Solidity, Web3.js, Hardhat, Smart Contracts
-
-Languages.Spoken:
-    English, Hindi, Gujarati
+Languages.Code:        TypeScript, JavaScript, C++, Python, Solidity, Rust
+Languages.Frameworks:  React, Next.js, Node.js, TailwindCSS, Three.js
+Languages.Backend:     PostgreSQL, MongoDB, GraphQL, Express, Docker, Redis
+Languages.Web3:        Ethereum, Solidity, Web3.js, Hardhat, Smart Contracts
+Languages.Spoken:      English, Hindi, Gujarati
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
