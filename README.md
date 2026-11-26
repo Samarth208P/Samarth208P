@@ -1,11 +1,11 @@
 <!-- DedSec Aesthetic // Watch Dogs 2 -->
 
 ```
-samarth@dev ~ $ neofetch
+samarth@dev ~ $
 ──────────────────────────────────────────────
 
   OS:        Windows 11 Pro
-  Uptime:    20 years
+  Uptime:    21 years
   Host:      IIT Roorkee
   Role:      Full Stack + Web3 Dev
   IDE:       VS Code
